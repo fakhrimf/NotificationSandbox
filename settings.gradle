@@ -1,0 +1,2 @@
+rootProject.name='NotificationSandbox'
+include ':app'

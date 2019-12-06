@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotificationSandbox</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="reply">Reply</string>
+    <string name="new_notification">New Notification</string>
+    <string name="content_notification">This is a dummy notification</string>
+    <string name="reply_sent">Reply Sent</string>
+    <string name="message_sent">Message has been sent</string>
+    <string name="message_info">MessageID: %d\nMessage: %s</string>
+</resources>
